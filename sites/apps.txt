@@ -1,0 +1,6 @@
+frappe
+training_01
+erpnext_aa
+erpnext
+payments
+hrms
